@@ -8,12 +8,12 @@
 Source: https://www.kaggle.com/saurabh00007/diabetescsv
 
 ### Features
-Pregnancies
-Glucose    
-BloodPressure             
-SkinThickness             
-Insulin                   
-BMI                       
-DiabetesPedigreeFunction  
-Age                       
-Outcome                   
+- Pregnancies
+- Glucose    
+- BloodPressure             
+- SkinThickness             
+- Insulin                   
+- BMI                       
+- DiabetesPedigreeFunction  
+- Age                       
+- Outcome                   
