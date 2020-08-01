@@ -4,7 +4,7 @@
 - Build a machine learning model to detect diabetes
 - Make a web app from that model
 
-# Data
+## Data
 Source: https://www.kaggle.com/saurabh00007/diabetescsv
 
 ### Features
@@ -18,5 +18,5 @@ Source: https://www.kaggle.com/saurabh00007/diabetescsv
 - Age                       
 - Outcome                   
 
-# Demo
+## Demo
 <img src="https://github.com/utkarshkant/Diabetes-Detection-Web-App/blob/master/Diabetes%20Detector%20Streamlit.gif" alt="Diabetes Detector">
