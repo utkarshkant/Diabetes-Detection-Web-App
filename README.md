@@ -17,3 +17,6 @@ Source: https://www.kaggle.com/saurabh00007/diabetescsv
 - DiabetesPedigreeFunction  
 - Age                       
 - Outcome                   
+
+# Demo
+<img src="https://github.com/utkarshkant/Diabetes-Detection-Web-App/blob/master/Diabetes%20Detector%20Streamlit.gif" alt="Diabetes Detector">
