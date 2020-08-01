@@ -19,4 +19,4 @@ Source: https://www.kaggle.com/saurabh00007/diabetescsv
 - Outcome                   
 
 ## Demo
-<img src="https://github.com/utkarshkant/Diabetes-Detection-Web-App/blob/master/Diabetes%20Detector%20Streamlit.gif" alt="Diabetes Detector">
+<img src="https://github.com/utkarshkant/Diabetes-Detection-Web-App/blob/master/Diabetes%20Detector.gif" alt="Diabetes Detector">
